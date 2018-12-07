@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "apollo-server-express": "^2.2.6",
+    "express": "^4.16.4",
+    "graphql": "0.13.2",
+    "graphql-tools": "^4.0.3",
+    "pg": "^7.7.1",
+    "postgraphile": "^4.0.1",
+    "postgraphile-plugin-connection-filter": "^1.0.0-beta.22"
+  },
+  "resolutions": {
+    "graphql": "0.13.2"
+  }
+}
