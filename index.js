@@ -87,7 +87,7 @@ const runServer = async () => {
   server.applyMiddleware({ app });
 
   app.listen('61234', () => {
-    console.log(`Server running on port 66661`);
+    console.log(`Server running on port 61234`);
   });
 }
 
